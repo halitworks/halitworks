@@ -4,7 +4,7 @@
   <samp>
     Hi there, I'm M. Halit Bulut - dev halit :wave:<br>
     I'm a <em>Full-Stack Developer</em> and <em>Student</em>.<br>
-    I have a great interest in artificial intelligence and chess.<br>
+    I have a great interest in artificial intelligence and the violin.<br>
     I love to play Rocket League.<br>
     <br><img src="https://komarev.com/ghpvc/?username=mbhalit">
     <br><br>:coffee: Wanna chat? :point_right: <a href="https://discord.gg/">Discord</a>
