@@ -9,3 +9,5 @@
     <br><br>:coffee: <a href="https://discordapp.com/users/669548362512465944">Discord</a>
   </samp>
 </p>
+
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
