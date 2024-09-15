@@ -6,6 +6,6 @@
     I'm a <em>Full-Stack Developer</em> in the learning phase and <em>Student</em>.<br>
     I have a great interest in artificial intelligence and the violin. 🎻🎵<br>
     <br><img src="https://komarev.com/ghpvc/?username=mbhalit">
-    <br><br>:coffee: <a href="https://discord.gg/">Discord</a>
+    <br><br>:coffee: <a href="https://discordapp.com/users/669548362512465944">Discord</a>
   </samp>
 </p>
