@@ -19,15 +19,3 @@
 </p>
 
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-<!--START_SECTION:waka-->
-
-```txt
-C++                       567 hrs 28 mins ████████████▓░░░░░░░░░░░░   50.37 %
-C#                        456 hrs 17 mins ███████▒░░░░░░░░░░░░░░░░░   29.78 %
-JavaScript                190 hrs 4 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
-HTML                      70 hrs 5 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-CSS                       40 hrs 56 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-```
-
-<!--END_SECTION:waka-->
