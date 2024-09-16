@@ -14,6 +14,7 @@
     <a href="https://kernel.org"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></img></a>
     <br><img src="https://komarev.com/ghpvc/?username=mbhalit">
     <br><br>:coffee: <a href="https://discordapp.com/users/669548362512465944">Discord</a>
+    :coffee: <a href="https://vsco.co/halitmb/gallery">Gallery</a>
   </samp>
 </p>
 
