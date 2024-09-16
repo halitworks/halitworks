@@ -13,7 +13,7 @@
     <a href="https://archlinux.org"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white"></img></a>
     <a href="https://kernel.org"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></img></a>
     <br><img src="https://komarev.com/ghpvc/?username=mbhalit">
-    <br><br>:coffee: <a href="https://discordapp.com/users/669548362512465944">Discord</a>
+    <br><br>💬 <a href="https://discordapp.com/users/669548362512465944">Discord</a>
     📸 <a href="https://vsco.co/halitmb/gallery">Gallery</a>
   </samp>
 </p>
