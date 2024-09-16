@@ -6,7 +6,7 @@
     I'm a <em>Full-Stack Developer</em> in the learning phase and <em>Student</em>.<br>
     I have a great interest in artificial intelligence and the violin. 🎻🎵<br>
     <br><br>
-            <a href="hhttps://www.redhat.com"><img alt="Red Hat" src="https://img.shields.io/badge/Red%20Hat-B8001F?style=flat&logo=redhat&logoColor=white"></img></a>
+            <a href="https://www.redhat.com"><img alt="Red Hat" src="https://img.shields.io/badge/Red%20Hat-B8001F?style=flat&logo=redhat&logoColor=white"></img></a>
         <a href="https://linuxmint.com"><img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-92B662?style=flat&logo=linuxmint&logoColor=white"></img></a>
     <a href="https://getfedora.org"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white"></img></a>
 <a href="https://debian.org"><img alt="Debian" src="https://img.shields.io/badge/Debian-d70a53?style=flat&logo=debian&logoColor=white"></img></a>
