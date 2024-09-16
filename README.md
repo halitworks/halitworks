@@ -5,8 +5,7 @@
     Hi there, I'm M. Halit Bulut - dev kodaeron :wave:<br>
     I'm a <em>Full-Stack Developer</em> in the learning phase and <em>Student</em>.<br>
     I have a great interest in artificial intelligence and the violin. 🎻🎵<br>
-    <br><br><p align="center">
-      </p>
+    <br><br>
             <a href="https://www.redhat.com"><img alt="Red Hat" src="https://img.shields.io/badge/Red%20Hat-B8001F?style=flat&logo=redhat&logoColor=white"></img></a>
         <a href="https://linuxmint.com"><img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-92B662?style=flat&logo=linuxmint&logoColor=white"></img></a>
     <a href="https://getfedora.org"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white"></img></a>
@@ -22,6 +21,6 @@
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 <p align="center">
-<img height=250 width=450 src="https://github-readme-stats.vercel.app/api?username=mt190502&show_icons=true&theme=dark"></img>
-<img height=250 width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mt190502&langs_count=9&layout=compact&theme=dark"></img>
+<img height=250 width=450 src="https://github-readme-stats.vercel.app/api?username=kodaeron&show_icons=true&theme=dark"></img>
+<img height=250 width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodaeron&langs_count=9&layout=compact&theme=dark"></img>
 </p>
