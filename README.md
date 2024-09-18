@@ -1,4 +1,4 @@
-<img align="left" src="https://raw.githubusercontent.com/xeome/xeome/master/i860_small.png">
+<img align="left" src="https://raw.githubusercontent.com/kodaeron/kodaeron/refs/heads/main/kodaeron.png">
 
 ### Hey!
 
