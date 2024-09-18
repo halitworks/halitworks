@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/kodaeron/kodaeron/blob/main/kodaeron_small_gif.gif">
+<img align="left" src="https://github.com/kodaeron/kodaeron/blob/main/kodaeron_small_gif.gif" style="margin-right: 15px;">
 <br>
 
 ### Hey!
