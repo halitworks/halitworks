@@ -1,7 +1,6 @@
-<div style="display: inline-block; margin-right: 20px;">
-    <img align="left" src="https://github.com/kodaeron/kodaeron/blob/main/kodaeron_small_gif.gif">
-</div>
+<img align="left" src="https://github.com/kodaeron/kodaeron/blob/main/kodaeron_small_gif.gif">
 <br>
+
 
 ### Hey!
 
