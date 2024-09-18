@@ -6,7 +6,7 @@
 
 &nbsp;   I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 
-[![views](https://komarev.com/ghpvc/?username=kodaeron&style=flat&color=313131&label=views)](https://github.com/kodaeron)
+&nbsp; [![views](https://komarev.com/ghpvc/?username=kodaeron&style=flat&color=313131&label=views)](https://github.com/kodaeron)
 
 <br>
 
