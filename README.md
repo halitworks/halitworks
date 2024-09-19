@@ -10,7 +10,7 @@
 
 <br>
 
-Ever since I joined GitHub **7** years ago, I pushed **779** commits, opened **21** issues, submitted **22** pull requests, received **180** stars across **33** personal projects, and contributed to **10** public repositories.
+A high school student, an entrepreneurial programmer, a maker who helps and supports various projects, a roboticist, and the software captain of [FIRST Robotics Competition](https://www.firstinspires.org/about) [Team 6064](https://team6064.org.tr/).
 
 Languages ​​and programs I know:
 
