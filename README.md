@@ -12,7 +12,7 @@
 
 Ever since I joined GitHub **7** years ago, I pushed **779** commits, opened **21** issues, submitted **22** pull requests, received **180** stars across **33** personal projects, and contributed to **10** public repositories.
 
-Languages ​​and programs I know
+Languages ​​and programs I know:
 
 - .
 - .
