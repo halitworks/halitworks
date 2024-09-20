@@ -18,7 +18,7 @@ Languages ​​and programs I know:
 - Windows Forms application using C#.
 - Managing databases using SQL.
 - Developing games using Unity.
-- Dveloping websites using WordPress, HTML, CSS, and JavaScript.
+- Dveloping websites using WordPress, HTML, CSS, JavaScript, XML, PHP, Python, and SQL.
 - Creating 3D designs using SolidWorks, and I have a Creality CR-6 SE 3D printer.
 - Designing circuit boards using Eagle PCB.
 - Using Java to program the robot for [FRC](https://www.firstinspires.org/about) [Team 6064](https://team6064.org.tr/).
