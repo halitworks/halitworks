@@ -20,7 +20,7 @@ Languages ​​and programs I know:
 I am constantly improving myself. Every year, I learn different programs and various programming languages. My dream is to become a mechatronics engineer; I hope I will succeed. I have used the following Linux distributions.
 
 <p align="center">
-  <br><br>
+  <br>
             <a href="https://www.redhat.com"><img alt="Red Hat" src="https://img.shields.io/badge/Red%20Hat-B8001F?style=flat&logo=redhat&logoColor=white"></img></a>
         <a href="https://linuxmint.com"><img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-92B662?style=flat&logo=linuxmint&logoColor=white"></img></a>
     <a href="https://getfedora.org"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white"></img></a>
