@@ -22,7 +22,7 @@ Languages ​​and programs I know:
 - Creating 3D designs using **SolidWorks**, and I have a Creality CR-6 SE 3D printer.
 - Designing circuit boards using **Eagle PCB**.
 - Using **Java** to program the robot for [FRC](https://www.firstinspires.org/about) [Team 6064](https://team6064.org.tr/).
-- Using **C++** with **Arduino IDE** for robotics activities. Developing projects using **Arduino** and the **Deneyap board**.
+- Using **C++** with **Arduino IDE** for robotics activities. Developing projects using [**Arduino**](https://www.arduino.cc/) and the [**Deneyap board**](https://deneyapkart.org/en).
 
 I am constantly improving myself. Every year, I learn different programs and various programming languages. My dream is to become a **mechatronics engineer**; I hope I will succeed. I have used the following Linux distributions.
 
