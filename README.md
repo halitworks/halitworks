@@ -17,16 +17,10 @@ Languages ​​and programs I know:
 - .
 - .
 
-Junior Linux kernel engineer obsessed with efficiency and micro optimization. Currently, I'm learning C, Linux, XDP, and go. I'm always looking for ways to make my code and systems run faster and more efficiently.
+I am constantly improving myself. Every year, I learn different programs and various programming languages. My dream is to become a mechatronics engineer; I hope I will succeed. I have used the following Linux distributions.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
   <br><br>
-  <samp>
-    Hi there, I'm M. Halit Bulut - dev kodaeron :wave:<br>
-    I'm a <em>Full-Stack Developer</em> in the learning phase and <em>Student</em>.<br>
-    I have a great interest in artificial intelligence and the violin. 🎻🎵<br>
-    <br><br>
             <a href="https://www.redhat.com"><img alt="Red Hat" src="https://img.shields.io/badge/Red%20Hat-B8001F?style=flat&logo=redhat&logoColor=white"></img></a>
         <a href="https://linuxmint.com"><img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-92B662?style=flat&logo=linuxmint&logoColor=white"></img></a>
     <a href="https://getfedora.org"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white"></img></a>
