@@ -14,7 +14,7 @@ A high school student, an entrepreneurial programmer, a maker who helps and supp
 
 Languages ​​and programs I know:
 
-- Developing mobile applications using *React* and JavaScript, Jsx.
+- Developing mobile applications using **React** and JavaScript, Jsx.
 - Windows Forms application using C#.
 - Managing databases using SQL.
 - Developing games using Unity.
