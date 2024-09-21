@@ -24,7 +24,7 @@ Languages ​​and programs I know:
 - Using **Java** to program the robot for [FRC](https://www.firstinspires.org/about) [Team 6064](https://team6064.org.tr/).
 - Using **C++** with **Arduino IDE** for robotics activities. Developing projects using [**Arduino**](https://www.arduino.cc/) and the [**Deneyap board**](https://deneyapkart.org/en).
 
-I am constantly improving myself. Every year, I learn different programs and various programming languages. My dream is to become a **mechatronics engineer**; I hope I will succeed. I have used the following Linux distributions.
+I am constantly improving myself. Every year, I learn different programs and various programming languages. My dream is to become a **mechatronics engineer**; I hope I will succeed. You can see the projects I have done on [my website](https://halitmb.com/). I have used the following Linux distributions.
 
 <p align="center">
   <br>
