@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/09d4b95c-29dd-45ff-941e-710198011a2e)<img align="left" src="https://github.com/kodaeron/kodaeron/blob/main/kodaeron_small_gif.gif">
+<img align="left" src="https://github.com/kodaeron/kodaeron/blob/main/kodaeron_small_gif.gif">
 <br>
 
 
