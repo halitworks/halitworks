@@ -37,7 +37,7 @@ A high school student, an entrepreneurial programmer, a maker who helps and supp
 <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 
 <div style="clear: both;"></div> <!-- This clears the floating elements -->
-
+<br/>
 <p>I am constantly improving myself. Every year, I learn different programs and various programming languages. My dream is to become a <strong>mechatronics engineer</strong>; I hope I will succeed. You can see the projects I have done on <a href="https://halitmb.com/">my website</a>. I have used the following Linux distributions.</p>
 
 
