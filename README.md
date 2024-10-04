@@ -26,7 +26,7 @@ A high school student, an entrepreneurial programmer, a maker who helps and supp
 <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="SQL" width="26px" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" />
-<img align="left" alt="MongoDB" width="26px" src="https://www.svgrepo.com/show/354090/mongodb.svg" />
+<img align="left" alt="MongoDB" width="26px" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
 <img align="left" alt="Git" width="26px" src="https://www.svgrepo.com/show/452210/git.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
