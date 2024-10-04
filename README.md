@@ -61,4 +61,4 @@ A high school student, an entrepreneurial programmer, a maker who helps and supp
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kodaeron&theme=dark&show_icons=true&hide_border=true&count_private=false" alt="canokan" width="50%" /></p><br />
 <br />
 
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+<img align="center" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="canokan" width="50%" />
