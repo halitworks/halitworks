@@ -57,6 +57,11 @@ A high school student, an entrepreneurial programmer, a maker who helps and supp
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=MehmetEminDanli&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetEminDanli&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div style="margin-bottom: 20px;">
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kodaeron&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
+<div style="margin-bottom: 20px;">
+    ![](https://github-readme-stats.vercel.app/api?username=kodaeron&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+</div>
+
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
