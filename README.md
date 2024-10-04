@@ -39,7 +39,7 @@ A high school student, an entrepreneurial programmer, a maker who helps and supp
 
 <div style="clear: both;"></div> 
 <br><br><br>
-<p>I am constantly improving myself. Every year, I learn different programs and various programming languages. My dream is to become a <strong>mechatronics engineer</strong>; I hope I will succeed. You can see the projects I have done on <a href="https://halitmb.com/">my website</a>. I have used the following Linux distributions.</p>
+<p>I am constantly improving myself. Every year, I learn different programs and various programming languages. My dream is to become a <strong>mechatronics engineer</strong>; I hope I will succeed. You can see the projects I have done on <a href="https://halitmb.com/">my website</a>. I have also used the following Linux distributions.</p>
 
 
 <p align="center">
