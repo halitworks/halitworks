@@ -17,6 +17,7 @@ A high school student, an entrepreneurial programmer, a maker who helps and supp
 <img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Discord.js" width="26px" src="https://icon.icepanel.io/Technology/svg/Discord.js.svg" />
@@ -35,10 +36,9 @@ A high school student, an entrepreneurial programmer, a maker who helps and supp
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="SolidWorks" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR32C4nIMHw9lIRKtJ2kTxw38jo5KHhkU4ADg&s" />
 <img align="left" alt="Eagle PCB" width="26px" src="https://yt3.googleusercontent.com/ytc/AIdro_k0PX-rjirYWUlIJb9VirExih3WZORCbFVbS2X0yhR3D7o=s900-c-k-c0x00ffffff-no-rj" />
-<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
-<div style="clear: both;"></div> <!-- This clears the floating elements -->
-<br>
+<div style="clear: both;"></div> 
+<br><br>
 <p>I am constantly improving myself. Every year, I learn different programs and various programming languages. My dream is to become a <strong>mechatronics engineer</strong>; I hope I will succeed. You can see the projects I have done on <a href="https://halitmb.com/">my website</a>. I have used the following Linux distributions.</p>
 
 
