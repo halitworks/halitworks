@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/kodaeron/kodaeron/blob/main/kodaeron_small_gif.gif">
+<img align="left" src="https://github.com/halitmb/halitmb/blob/main/kodaeron_small_gif.gif">
 <br>
 
 
@@ -6,7 +6,7 @@
 
 &nbsp;   A young developer, maker, and Linux enthusiast chasing their dreams.
 
-&nbsp; [![views](https://komarev.com/ghpvc/?username=kodaeron&style=flat&color=313131&label=views)](https://github.com/kodaeron)
+&nbsp; [![views](https://komarev.com/ghpvc/?username=halitmb&style=flat&color=313131&label=views)](https://github.com/halitmb)
 
 <br>
 
@@ -58,6 +58,6 @@ A high school student, an entrepreneurial programmer, a maker who helps and supp
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodaeron&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="halitmb" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kodaeron&theme=dark&show_icons=true&hide_border=true&count_private=false" alt="halitmb" width="50%" /></p><br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halitmb&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="halitmb" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=halitmb&theme=dark&show_icons=true&hide_border=true&count_private=false" alt="halitmb" width="50%" /></p><br />
 <img align="center" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
