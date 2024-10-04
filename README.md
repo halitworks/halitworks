@@ -30,9 +30,9 @@ Languages, programs etc. I use:
 <img align="left" alt="WordPress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="XML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/06c11ba1384ae6f5c20afbf7f5be0b561d54cf23/topics/python/python.png" />
-<img align="left" alt="SolidWorks" width="26px" src="https://user-images.githubusercontent.com/74038190/246654074-9ae64fc7-fdf7-457e-9dcd-d6eeb5bd77a0.png" />
-<img align="left" alt="Eagle PCB" width="26px" src="https://seeklogo.com/images/E/eagle-pcb-design-software-logo-35804C7287-seeklogo.com.png" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="SolidWorks" width="26px" src="https://img.icons8.com/ios/500/solidworks.png" />
+<img align="left" alt="Eagle PCB" width="26px" src="https://upload.wikimedia.org/wikipedia/en/e/ea/Autodesk_EAGLE_logo.png" />
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 
