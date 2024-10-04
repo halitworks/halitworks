@@ -35,7 +35,7 @@ Languages, programs etc. I use:
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/06c11ba1384ae6f5c20afbf7f5be0b561d54cf23/topics/java/java.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/06c11ba1384ae6f5c20afbf7f5be0b561d54cf23/topics/cpp/cpp.png" />
 
-
+<br>
 - Developing mobile applications using **React and JavaScript, Jsx**.
 - Windows Forms application using **C#**.
 - Managing databases using **SQL**.
