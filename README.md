@@ -1,8 +1,8 @@
-###   &nbsp;  Hi there :wave:, I'm M. Halit Bulut
+### Hi there :wave:, I'm M. Halit Bulut
 
-&nbsp;   A young developer, maker, and Linux enthusiast chasing their dreams.
+A young developer, maker, and Linux enthusiast chasing their dreams.
 
-&nbsp; [![views](https://komarev.com/ghpvc/?username=halitmb&style=flat&color=313131&label=views)](https://github.com/halitmb)
+[![views](https://komarev.com/ghpvc/?username=halitmb&style=flat&color=313131&label=views)](https://github.com/halitmb)
 
 <br>
 
