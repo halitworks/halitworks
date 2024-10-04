@@ -58,5 +58,5 @@ A high school student, an entrepreneurial programmer, a maker who helps and supp
 ---
 
 ![kodaeron's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kodaeron&theme=dark&show_icons=true&hide_border=true&layout=compact)
-![kodaeron's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kodaeron&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![kodaeron's Stats](https://github-readme-stats.vercel.app/api?username=kodaeron&theme=dark&show_icons=true&hide_border=true&count_private=false)
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
