@@ -35,9 +35,11 @@ A high school student, an entrepreneurial programmer, a maker who helps and supp
 <img align="left" alt="Eagle PCB" width="26px" src="https://yt3.googleusercontent.com/ytc/AIdro_k0PX-rjirYWUlIJb9VirExih3WZORCbFVbS2X0yhR3D7o=s900-c-k-c0x00ffffff-no-rj" />
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<br />
-<br />
-I am constantly improving myself. Every year, I learn different programs and various programming languages. My dream is to become a **mechatronics engineer**; I hope I will succeed. You can see the projects I have done on [my website](https://halitmb.com/). I have used the following Linux distributions.
+
+<div style="clear: both;"></div> <!-- This clears the floating elements -->
+
+<p>I am constantly improving myself. Every year, I learn different programs and various programming languages. My dream is to become a <strong>mechatronics engineer</strong>; I hope I will succeed. You can see the projects I have done on <a href="https://halitmb.com/">my website</a>. I have used the following Linux distributions.</p>
+
 
 <p align="center">
   <br>
