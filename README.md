@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/kodaeron/kodaeron/blob/main/kodaeron_small_gif.gif">
+![image](https://github.com/user-attachments/assets/09d4b95c-29dd-45ff-941e-710198011a2e)<img align="left" src="https://github.com/kodaeron/kodaeron/blob/main/kodaeron_small_gif.gif">
 <br>
 
 
@@ -36,6 +36,9 @@ A high school student, an entrepreneurial programmer, a maker who helps and supp
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="SolidWorks" width="26px" src="https://www.svgrepo.com/show/508968/solidworks.svg" />
 <img align="left" alt="Eagle PCB" width="26px" src="https://www.svgrepo.com/show/331298/autodesk.svg" />
+<img align="left" alt="NPM" width="26px" src="https://www.svgrepo.com/show/452077/npm.svg" />
+<img align="left" alt="PHP" width="26px" src="![image](https://github.com/user-attachments/assets/bb14b759-d1b2-49a4-904b-f935c683b9e5)"/>
+
 
 <div style="clear: both;"></div> 
 <br><br><br>
