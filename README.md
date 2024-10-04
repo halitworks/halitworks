@@ -34,7 +34,7 @@ A high school student, an entrepreneurial programmer, a maker who helps and supp
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="XML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="SolidWorks" width="26px" src="https://www.svgrepo.com/show/508968/solidworks.svg" />
+<img align="left" alt="SolidWorks" width="26px" src="https://github.com/user-attachments/assets/9cefd73f-625d-4a90-af52-c8d335aec901" >
 <img align="left" alt="Eagle PCB" width="26px" src="https://www.svgrepo.com/show/331298/autodesk.svg" />
 <img align="left" alt="NPM" width="26px" src="https://www.svgrepo.com/show/452077/npm.svg" />
 <img align="left" alt="PHP" width="26px" src="https://www.svgrepo.com/show/452088/php.svg"/>
