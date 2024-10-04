@@ -25,17 +25,17 @@ A high school student, an entrepreneurial programmer, a maker who helps and supp
 <img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="SQL" width="26px" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="MySQL" width="26px" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" />
+<img align="left" alt="MongoDB" width="26px" src="https://www.svgrepo.com/show/354090/mongodb.svg" />
+<img align="left" alt="Git" width="26px" src="https://www.svgrepo.com/show/452210/git.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-<img align="left" alt="WordPress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+<img align="left" alt="WordPress" width="26px" src="https://www.svgrepo.com/show/349568/wordpress.svg" />
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="XML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="SolidWorks" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR32C4nIMHw9lIRKtJ2kTxw38jo5KHhkU4ADg&s" />
-<img align="left" alt="Eagle PCB" width="26px" src="https://yt3.googleusercontent.com/ytc/AIdro_k0PX-rjirYWUlIJb9VirExih3WZORCbFVbS2X0yhR3D7o=s900-c-k-c0x00ffffff-no-rj" />
+<img align="left" alt="SolidWorks" width="26px" src="https://www.svgrepo.com/show/508968/solidworks.svg" />
+<img align="left" alt="Eagle PCB" width="26px" src="https://www.svgrepo.com/show/198490/protoboard.svg" />
 
 <div style="clear: both;"></div> 
 <br><br><br>
