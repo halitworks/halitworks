@@ -1,5 +1,3 @@
-<img align="left" src="https://github.com/halitmb/halitmb/blob/main/kodaeron_small_gif.gif">
-<br>
 
 
 ###   &nbsp;  Hi there :wave:, I'm M. Halit Bulut
