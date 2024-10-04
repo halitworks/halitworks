@@ -35,7 +35,7 @@ A high school student, an entrepreneurial programmer, a maker who helps and supp
 <img align="left" alt="XML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="SolidWorks" width="26px" src="https://www.svgrepo.com/show/508968/solidworks.svg" />
-<img align="left" alt="Eagle PCB" width="26px" src="https://www.svgrepo.com/show/198490/protoboard.svg" />
+<img align="left" alt="Eagle PCB" width="26px" src="https://www.svgrepo.com/show/361076/circuit-board.svg" />
 
 <div style="clear: both;"></div> 
 <br><br><br>
