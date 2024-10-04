@@ -32,7 +32,7 @@ Languages, programs etc. I use:
 <img align="left" alt="XML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="SolidWorks" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR32C4nIMHw9lIRKtJ2kTxw38jo5KHhkU4ADg&s" />
-<img align="left" alt="Eagle PCB" width="26px" src="https://seeklogo.com/images/A/autodesk-eagle-logo-331BC94AB1-seeklogo.com.png" />
+<img align="left" alt="Eagle PCB" width="26px" src="https://yt3.googleusercontent.com/ytc/AIdro_k0PX-rjirYWUlIJb9VirExih3WZORCbFVbS2X0yhR3D7o=s900-c-k-c0x00ffffff-no-rj" />
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 
