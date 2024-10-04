@@ -41,18 +41,16 @@ A high school student, an entrepreneurial programmer, a maker who helps and supp
 <br><br><br>
 <p>I am constantly improving myself. Every year, I learn different programs and various programming languages. My dream is to become a <strong>mechatronics engineer</strong>; I hope I will succeed. You can see the projects I have done on <a href="https://halitmb.com/">my website</a>. I have also used the following Linux distributions.</p>
 
-
 <p align="center">
   <br>
-            <a href="https://www.redhat.com"><img alt="Red Hat" src="https://img.shields.io/badge/Red%20Hat-B8001F?style=flat&logo=redhat&logoColor=white"></img></a>
-        <a href="https://linuxmint.com"><img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-92B662?style=flat&logo=linuxmint&logoColor=white"></img></a>
+    <a href="https://www.redhat.com"><img alt="Red Hat" src="https://img.shields.io/badge/Red%20Hat-B8001F?style=flat&logo=redhat&logoColor=white"></img></a>
+    <a href="https://linuxmint.com"><img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-92B662?style=flat&logo=linuxmint&logoColor=white"></img></a>
     <a href="https://getfedora.org"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white"></img></a>
-<a href="https://debian.org"><img alt="Debian" src="https://img.shields.io/badge/Debian-d70a53?style=flat&logo=debian&logoColor=white"></img></a>
+    <a href="https://debian.org"><img alt="Debian" src="https://img.shields.io/badge/Debian-d70a53?style=flat&logo=debian&logoColor=white"></img></a>
     <a href="https://archlinux.org"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white"></img></a>
     <a href="https://kernel.org"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></img></a>
     <br><br> <a href="https://discordapp.com/users/669548362512465944">Discord</a>
     & <a href="https://vsco.co/halitmb/gallery">Gallery</a>
-  </samp>
 </p>
 
 ---
