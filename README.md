@@ -36,18 +36,6 @@ Languages, programs etc. I use:
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 
-
-<br>
-- Developing mobile applications using **React and JavaScript, Jsx**.
-- Windows Forms application using **C#**.
-- Managing databases using **SQL**.
-- Developing games using **Unity**.
-- Developing websites using **WordPress, HTML, CSS, JavaScript, XML, PHP, Python, and SQL**.
-- Creating 3D designs using **SolidWorks**, and I have a Creality CR-6 SE 3D printer.
-- Designing circuit boards using **Eagle PCB**.
-- Using **Java** to program the robot for [FRC](https://www.firstinspires.org/about) [Team 6064](https://team6064.org.tr/).
-- Using **C++** with **Arduino IDE** for robotics activities. Developing projects using [**Arduino**](https://www.arduino.cc/) and the [**Deneyap board**](https://deneyapkart.org/en).
-
 I am constantly improving myself. Every year, I learn different programs and various programming languages. My dream is to become a **mechatronics engineer**; I hope I will succeed. You can see the projects I have done on [my website](https://halitmb.com/). I have used the following Linux distributions.
 
 <p align="center">
