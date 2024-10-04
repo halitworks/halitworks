@@ -1,5 +1,3 @@
-
-
 ###   &nbsp;  Hi there :wave:, I'm M. Halit Bulut
 
 &nbsp;   A young developer, maker, and Linux enthusiast chasing their dreams.
