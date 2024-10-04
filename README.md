@@ -31,7 +31,7 @@ Languages, programs etc. I use:
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="XML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="SolidWorks" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/15/SolidWorks_Logo.svg" />
+<img align="left" alt="SolidWorks" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR32C4nIMHw9lIRKtJ2kTxw38jo5KHhkU4ADg&s" />
 <img align="left" alt="Eagle PCB" width="26px" src="https://seeklogo.com/images/A/autodesk-eagle-logo-331BC94AB1-seeklogo.com.png" />
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
