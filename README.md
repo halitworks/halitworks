@@ -6,7 +6,7 @@ A young developer, maker, and Linux enthusiast chasing their dreams.
 
 <br>
 
-A high school student, an entrepreneurial programmer, a maker who helps and supports various projects, a roboticist, and the software captain of FIRST Robotics Competition Team 6064.
+A high school student, an entrepreneurial programmer, a maker who helps and supports various projects, a roboticist, and the software captain of FIRST Robotics Competition [Team 6064](https://team6064.org.tr/).
 
 ### Languages, programs etc. I use:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
