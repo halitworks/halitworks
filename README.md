@@ -54,6 +54,5 @@ A high school student, an entrepreneurial programmer, a maker who helps and supp
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halitmb&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="halitmb" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=halitmb&theme=dark&show_icons=true&hide_border=true&count_private=false" alt="halitmb" width="50%" /></p><br />
 <img align="center" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
