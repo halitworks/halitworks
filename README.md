@@ -33,8 +33,6 @@ A high school student, an entrepreneurial programmer, a maker who helps and supp
 <img align="left" alt="SolidWorks" width="26px" src="https://github.com/user-attachments/assets/9cefd73f-625d-4a90-af52-c8d335aec901" >
 <img align="left" alt="Eagle PCB" width="26px" src="https://www.svgrepo.com/show/331298/autodesk.svg" />
 <img align="left" alt="NPM" width="26px" src="https://www.svgrepo.com/show/452077/npm.svg" />
-<img align="left" alt="PHP" width="26px" src="https://www.svgrepo.com/show/452088/php.svg"/>
-
 
 <div style="clear: both;"></div> 
 <br><br><br>
