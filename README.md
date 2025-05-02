@@ -1,4 +1,4 @@
-### Hi there :wave:, I'm M. Halit Bulut
+### Hi there :wave:, I'm Halit Bulut
 
 A young developer, maker, and Linux enthusiast chasing their dreams.
 
