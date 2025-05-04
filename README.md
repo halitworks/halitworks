@@ -36,5 +36,3 @@ Discord: `kodaeron`
 **~** _[halitmb.com](https://halitmb.com/)_
 
 **~** _[notes.halitmb.com](https://notes.halitmb.com/)_
-
-**~** _[blog.halitmb.com](https://blog.halitmb.com/)_
