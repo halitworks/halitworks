@@ -1,7 +1,7 @@
 ### Hi there :wave:, I'm Halit Bulut
 
 A young developer, maker, and Linux enthusiast chasing their dreams.
-<br>
+<br></br>
 A high school student, an entrepreneurial programmer, a maker who helps and supports various projects, a roboticist, and the software captain of FIRST Robotics Competition [Team 6064](https://team6064.org.tr/).
 
 <p align="center"><br>
