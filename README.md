@@ -35,4 +35,7 @@ Discord: `kodaeron`
 <br>
 **~** _[halitmb.com](https://halitmb.com/)_
 </br>
+<br>
 **~** _[notes.halitmb.com](https://notes.halitmb.com/)_
+</br>
+**~** _[blog.halitmb.com](https://blog.halitmb.com/)_
