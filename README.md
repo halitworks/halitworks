@@ -34,4 +34,5 @@ A high school student, an entrepreneurial programmer, a maker who helps and supp
 Discord: `kodaeron`
 
 **~** _[notes.halitmb.dev](https://halitmb.dev/)_
+<br></br>
 **~** _[notes.halitmb.dev](https://notes.halitmb.dev/)_
