@@ -1,11 +1,7 @@
 ### Hi there :wave:, I'm Halit Bulut
 
 A young developer, maker, and Linux enthusiast chasing their dreams.
-
-[![views](https://komarev.com/ghpvc/?username=halitmb&style=flat&color=313131&label=views)](https://github.com/halitmb)
-
 <br>
-
 A high school student, an entrepreneurial programmer, a maker who helps and supports various projects, a roboticist, and the software captain of FIRST Robotics Competition [Team 6064](https://team6064.org.tr/).
 
 <p align="center"><br>
@@ -28,10 +24,13 @@ A high school student, an entrepreneurial programmer, a maker who helps and supp
 <a href="#"><img src="https://komarev.com/ghpvc/?username=halitmb"></img></a>
 </br></p>
 
-
 ---
 
 <p align="center">
-<img height=250 width=450 src="https://github-readme-stats.vercel.app/api?username=mt190502&show_icons=true&theme=dark"></img>
-<img height=250 width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mt190502&langs_count=9&layout=compact&theme=dark"></img>
+<img height=250 width=450 src="https://github-readme-stats.vercel.app/api?username=halitmb&show_icons=true&theme=dark"></img>
+<img height=250 width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=halitmb&langs_count=9&layout=compact&theme=dark"></img>
 </p>
+
+Discord: `kodaeron`
+
+**~** _[notes.halitmb.dev](https://notes.halitmb.dev/)_
