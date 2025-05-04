@@ -33,6 +33,12 @@ A high school student, entrepreneurial programmer, and the software captain of F
 
 Discord: `kodaeron`
 
-<span> **~** _[halitmb.com](https://halitmb.com/)_ </span>
-<span> **~** _[notes.halitmb.com](https://notes.halitmb.com/)_ </span>
-<span> **~** _[blog.halitmb.com](https://blog.halitmb.com/)_ </span>
+<p>
+**~** _[halitmb.com](https://halitmb.com/)_
+</p>
+<p>
+**~** _[notes.halitmb.com](https://notes.halitmb.com/)_
+</p>
+<p>
+**~** _[blog.halitmb.com](https://blog.halitmb.com/)_
+</p>
