@@ -33,6 +33,6 @@ A high school student, an entrepreneurial programmer, a maker who helps and supp
 
 Discord: `kodaeron`
 <br>
-**~** _[halitmb.dev](https://halitmb.com/)_
+**~** _[halitmb.com](https://halitmb.com/)_
 </br>
-**~** _[notes.halitmb.dev](https://notes.halitmb.com/)_
+**~** _[notes.halitmb.com](https://notes.halitmb.com/)_
