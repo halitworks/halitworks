@@ -27,7 +27,7 @@ A 17-year-old high school student, entrepreneurial programmer, and the software 
 ---
 
 <p align="center">
-<a href="https://github.com/sanjay-kv">
+<a href="https://github.com/halitmb">
 <img height="155em" src="https://raw.githubusercontent.com/halitmb/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg"/>
 <img height="155em" src="https://raw.githubusercontent.com/halitmb/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg"/>
 </p>
