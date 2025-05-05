@@ -27,8 +27,9 @@ A 17-year-old high school student, entrepreneurial programmer, and the software 
 ---
 
 <p align="center">
-<img height=250 width=450 src="https://github-readme-stats.vercel.app/api?username=halitmb&show_icons=true&theme=dark"></img>
-<img height=250 width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=halitmb&langs_count=9&layout=compact&theme=dark"></img>
+<a href="https://github.com/sanjay-kv">
+<img height="155em" src="https://raw.githubusercontent.com/halitmb/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg"/>
+<img height="155em" src="https://raw.githubusercontent.com/halitmb/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg"/>
 </p>
 
 Discord: `kodaeron`
