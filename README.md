@@ -1,9 +1,3 @@
-### Hi there :wave:, I'm M. Halit Bulut
-
-A young developer, maker, and Linux enthusiast chasing their dreams.
-<br></br>
-A 17-year-old high school student, entrepreneurial programmer, and the software captain of FIRST Robotics [Team 6064](https://team6064.org.tr/). I’m pursuing network engineering, with a focus on network products from Cisco, Aruba, Juniper, Huawei, TP-Link, and others. I also have experience in server setups, including IBM, Dell, HPE, and other brands, as well as backup systems and firewalls. I’ve worked with a variety of Raspberry Pi and Orange Pi series. Additionally, I develop Gnome extensions for Linux. In short, I’m currently a system expert.
-
 <p align="center"><br>
 <a href="https://python.org"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></img></a>
 <a href="https://html.com"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></img></a> 
