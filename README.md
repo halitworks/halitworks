@@ -27,13 +27,13 @@ A 17-year-old high school student, entrepreneurial programmer, and the software 
 ---
 
 <p align="center">
-<a href="https://github.com/halitmb">
-<img height="155em" src="https://raw.githubusercontent.com/halitmb/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg"/>
-<img height="155em" src="https://raw.githubusercontent.com/halitmb/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg"/>
+<a href="https://github.com/halitworks">
+<img height="155em" src="https://raw.githubusercontent.com/halitworks/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg"/>
+<img height="155em" src="https://raw.githubusercontent.com/halitworks/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg"/>
 </p>
 
 Discord: `kodaeron`
 
-**~** _[halitmb.com](https://halitmb.com/)_
+**~** _[halitmb.com](https://halitworks.com/)_
 
-**~** _[notes.halitmb.com](https://notes.halitmb.com/)_
+**~** _[notes.halitmb.com](https://notes.halitworks.com/)_
