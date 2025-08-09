@@ -26,8 +26,4 @@
 <img height="155em" src="https://raw.githubusercontent.com/halitworks/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg"/>
 </p>
 
-Discord: `kodaeron`
-
-**~** _[halitmb.com](https://halitworks.com/)_
-
-**~** _[notes.halitmb.com](https://notes.halitworks.com/)_
+Discord: `halitworks`
